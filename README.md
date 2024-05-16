@@ -1,11 +1,8 @@
-## LARASCHOOL V 1.0.0
+## AMIKOMSCHOOL
 <p><b>
-LARASCHOOL adalah aplikasi website sekolah dibuat dengan framework laravel 8.
+AMIKOMSCHOOL adalah aplikasi website sekolah dibuat dengan framework laravel .
 </b></p>
 
-## Instalasi
-- download zip <a href="https://github.com/rahmathidayat9/laraschool/archive/master.zip">disini</a> 
-- atau clone : git clone https://github.com/rahmathidayat9/laraschool
 
 ## Setup
 - buka direktori project di terminal anda.
@@ -20,7 +17,7 @@ Lalu ketik command dibawah ini
 - php artisan db:seed 
 
 ## Login
-Email : rahmat@example.com
+Email : Luthfi@example.com
 Password : password
 
 ## Fitur
@@ -38,8 +35,6 @@ Password : password
 - Manage Pengumuman (CRUD)
 - Manage Kategori Artikel (CRUD)
 
-## Author
-- Rahmat Hidayatullah
 # AmikomSchool
 # AmikomSchool
 # AmikomSchool
