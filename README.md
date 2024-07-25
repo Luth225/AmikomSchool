@@ -17,7 +17,7 @@ Lalu ketik command dibawah ini
 - php artisan db:seed 
 
 ## Login
-Email : Luthfi@example.com
+Email : luthfi@gmail.com
 Password : password
 
 ## Fitur
